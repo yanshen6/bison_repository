@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2016-02-12T13:32:28.426654Z
+K 7
+svn:log
+V 161
+1.fixed 登录过程activity重复产生 
+2.fixed 为人工登录增加发车时间输入框
+3.Fixed issue #日记页面有大量的图片时，出现crash问题
+END
